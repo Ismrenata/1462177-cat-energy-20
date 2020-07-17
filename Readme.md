@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Рената Исмагилова](https://up.htmlacademy.ru/adaptive/20/user/1462177).
-* Наставник: `Неизвестно`.
+* Наставник: [Ярослав Петухов] (https://htmlacademy.ru/profile/yaroslav).
 
 ---
 
